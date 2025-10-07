@@ -1,10 +1,14 @@
-# Arena-del-desierto
-Arena del desierto
+<h1 align="center">Arena del desierto</h1>
+<h4 align="center">La Arena del Desierto: Conoce sus Tipos, Colores y Curiosidades</h4>
+
+<p align="center">  
+<img width="1920" height="618" alt="083hxjtp" src="https://github.com/user-attachments/assets/cee8f29e-358d-4bf4-a340-4fba20d4c701" />
+</p>
 
 ## 1. ¿Qué es la arena del desierto?
 La **arena del desierto** está formada por partículas de roca y minerales extremadamente finas, creadas por millones de años de erosión y desgaste natural. Su composición varía según el desierto y la geología de la región. Los minerales más comunes son el cuarzo, la mica y el feldespato, aunque también puede contener restos de otras rocas erosionadas.
 
-El color de la arena depende de los minerales presentes: la **arena dorada** contiene principalmente cuarzo, la **roja** recibe su tonalidad de los óxidos de hierro, y la **gris** proviene de restos de roca volcánica o sedimentaria. Cada grano de arena refleja la historia geológica del desierto donde se encuentra y puede haber sido transportado cientos de kilómetros por el viento durante miles de años.
+El **color de la arena** depende de los minerales presentes: la **arena dorada** contiene principalmente cuarzo, la **roja** recibe su tonalidad de los óxidos de hierro, y la **gris** proviene de restos de roca volcánica o sedimentaria. Cada grano de arena refleja la historia geológica del desierto donde se encuentra y puede haber sido transportado cientos de kilómetros por el viento durante miles de años.
 
 <br>
 
@@ -58,4 +62,3 @@ Aunque ambas están formadas por partículas de roca y minerales, la arena del d
 
 Dato adicional: No toda la arena dorada de las playas proviene de desiertos; muchas playas tienen arena blanca o gris, compuesta por minerales y restos orgánicos distintos de los desiertos.
 
-## 
