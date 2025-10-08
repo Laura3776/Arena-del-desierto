@@ -12,6 +12,12 @@ El **color de la arena** depende de los minerales presentes: la **arena dorada**
 
 <br>
 
+<p align="center">  
+<img width="399" height="375" alt="image" src="https://github.com/user-attachments/assets/203d4fe9-154f-4bc5-8e66-1abdbb8552f2" />
+</p>
+
+<br>
+
 ## 2. Tipos de arena y dunas
 Los desiertos presentan distintos tipos de arena y formas de dunas según el tamaño de los granos y la fuerza del viento:
 ### 2.1. Dunas
@@ -22,6 +28,13 @@ Los desiertos presentan distintos tipos de arena y formas de dunas según el tam
 - **Arena gruesa**: Más pesada y estable, forma la base de dunas y mesetas.
 
 Los desiertos más conocidos, como el Sahara, el Namib o el Gobi, tienen dunas de diferentes tamaños y formas, desde pequeñas ondulaciones hasta gigantescas montañas de arena que parecen océanos de oro o gris.
+
+<br>
+
+<p align="center">  
+<img width="400" height="409" alt="image" src="https://github.com/user-attachments/assets/ee395d9b-47de-45cb-be75-350453fe5363" />
+</p>
+
 
 <br>
 
