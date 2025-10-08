@@ -75,7 +75,7 @@ Al observar la arena de cerca, se puede notar su diversidad en tamaño, forma y 
 https://youtu.be/bo5oNT2FpqE
 > Video paisajes del desierto
 
-[Desiertos del mundo](Desiertos del Mundo)
+[Desiertos del mundo](Desiertos del Mundo.md)
 
 <br>
 
