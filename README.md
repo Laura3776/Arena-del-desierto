@@ -91,4 +91,6 @@ Aunque ambas están formadas por partículas de roca y minerales, la arena del d
   <img width="470" height="480" alt="image" src="https://github.com/user-attachments/assets/39e0bc54-bdb7-4643-8c3b-55c0aac4fc84" />
 </div>
 
+<br>
+
 **Dato adicional**: No toda la arena dorada de las playas proviene de desiertos; muchas playas tienen arena blanca o gris, compuesta por minerales y restos orgánicos distintos de los desiertos.
