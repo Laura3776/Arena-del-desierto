@@ -16,6 +16,8 @@ El **color de la arena** depende de los minerales presentes: la **arena dorada**
 <img width="399" height="375" alt="image" src="https://github.com/user-attachments/assets/203d4fe9-154f-4bc5-8e66-1abdbb8552f2" />
 </p>
 
+> Diferentes colores de la arena del desierto de Sahara 
+
 <br>
 
 ## 2. Tipos de arena y dunas
@@ -35,6 +37,7 @@ Los desiertos más conocidos, como el Sahara, el Namib o el Gobi, tienen dunas d
 <img width="400" height="409" alt="image" src="https://github.com/user-attachments/assets/ee395d9b-47de-45cb-be75-350453fe5363" />
 </p>
 
+> Dunas de Nabimia
 
 <br>
 
@@ -45,6 +48,13 @@ La arena del desierto no solo forma dunas, sino que también da lugar a fenómen
 - **Dunas cantoras**: Algunas dunas producen sonidos bajos o zumbidos cuando la arena se desliza por sus laderas.
 
 Estos fenómenos muestran cómo el viento actúa constantemente sobre la arena, cambiando el paisaje de manera continua y silenciosa.
+
+<br>
+
+<p align="center">  
+<img width="426" height="418" alt="image" src="https://github.com/user-attachments/assets/cf360388-3c7e-4455-8a01-4119c3bf82e7" />
+</p>
+> Tormenta de arena
 
 <br>
 
@@ -61,6 +71,9 @@ Cada desierto tiene características únicas:
 ## 5. Observación y detalles visuales
 Al observar la arena de cerca, se puede notar su diversidad en tamaño, forma y color. Cada grano tiene su propia historia y, al reunirse millones de granos, crean paisajes amplios y variados. Ver la arena bajo un microscopio permite apreciar detalles que no se perciben a simple vista, como su textura rugosa, cristales de cuarzo y pequeñas impurezas minerales.
 
+https://youtu.be/bo5oNT2FpqE
+> Video paisajes del desierto
+
 <br>
 
 ## 6. Diferencias entre arena del desierto y arena de playa
@@ -73,5 +86,9 @@ Aunque ambas están formadas por partículas de roca y minerales, la arena del d
 | **Humedad y cohesión**     | Seca, ligera, fácil de mover por el viento.          | Húmeda, más compacta, se mantiene en su lugar por el agua. |
 | **Formación de paisajes**  | El viento forma dunas y mares de arena.              | El agua forma playas, barras de arena y dunas costeras. |
 
-Dato adicional: No toda la arena dorada de las playas proviene de desiertos; muchas playas tienen arena blanca o gris, compuesta por minerales y restos orgánicos distintos de los desiertos.
+<div align="center">
+  <img width="470" height="480" alt="image" src="https://github.com/user-attachments/assets/76de3294-db39-4b26-a615-243177787d7d" />
+  <img width="470" height="480" alt="image" src="https://github.com/user-attachments/assets/39e0bc54-bdb7-4643-8c3b-55c0aac4fc84" />
+</div>
 
+**Dato adicional**: No toda la arena dorada de las playas proviene de desiertos; muchas playas tienen arena blanca o gris, compuesta por minerales y restos orgánicos distintos de los desiertos.
