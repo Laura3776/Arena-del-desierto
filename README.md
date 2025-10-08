@@ -54,6 +54,7 @@ Estos fenómenos muestran cómo el viento actúa constantemente sobre la arena, 
 <p align="center">  
 <img width="426" height="418" alt="image" src="https://github.com/user-attachments/assets/cf360388-3c7e-4455-8a01-4119c3bf82e7" />
 </p>
+
 > Tormenta de arena
 
 <br>
@@ -74,7 +75,7 @@ Al observar la arena de cerca, se puede notar su diversidad en tamaño, forma y 
 https://youtu.be/bo5oNT2FpqE
 > Video paisajes del desierto
 
-[Desiertos del mundo]()
+[Desiertos del mundo](Desiertos del Mundo)
 
 <br>
 
