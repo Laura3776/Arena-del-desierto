@@ -1,17 +1,3 @@
-body {
-  background-color: lightblue;
-}
-
-h1 {
-  color: white;
-  text-align: center;
-}
-
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
-
 <h1 align="center">Arena del desierto</h1>
 <h4 align="center">La Arena del Desierto: Conoce sus Tipos, Colores y Curiosidades</h4>
 
